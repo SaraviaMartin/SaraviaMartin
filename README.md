@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Juan-Saravia-Da-Silva
+- 👋 Hi, I’m Martin
 - 👀 I’m interested in computer science, programming languages, and literature
 - 🌱 I’m currently learning how to be a good programmer 
 - 💞️ I’m looking to collaborate on ... 
