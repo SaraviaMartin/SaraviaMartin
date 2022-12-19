@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Martin
 - 👀 I’m interested in computer science, programming languages, and literature
-- 🌱 I’m currently learning how to be a good programmer 
-- 💞️ I’m looking to collaborate on ... 
+- 🌱 I’m currently learning Javascript 
+- 💞️ I’m looking to collaborate on a proyect 
 - 📫 How to reach me: saraviamartin16@gmail.com
 
 
