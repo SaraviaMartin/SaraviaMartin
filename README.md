@@ -21,8 +21,7 @@ I’m interested in computer science, programming languages, and literature<br> 
 ---
 [![](https://visitcount.itsvg.in/api?id=SaraviaMartin&icon=5&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Juan Martin Saravia Da Silva) 
+
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
