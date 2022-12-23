@@ -1,4 +1,4 @@
-# 💫 About Me:
+About Me:
 I’m interested in computer science, programming languages, and literature<br> I’m currently learning Javascript and looking to collaborate on a proyect<br>How to reach me: saraviamartin16@gmail.com
 
 
