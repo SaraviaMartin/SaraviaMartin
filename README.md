@@ -1,4 +1,4 @@
-About Me:
+I am currently studying my first year of the university technical degree in programming. and a fullstack developer bootcamp.
 I am a Front End Developer. 
 I like to create and design things that can be used in projects tomorrow. I seek to improve day by day and practice constantly. My dream is to be able to contribute to projects and be able to work one day as a programmer. I like reading other people's code as that also helps me improve.<br> I am looking to specialize in Javascript, Html and css to have a solid foundation. And after that to be able to continue learning other languages and new technologies. 
 <br>
