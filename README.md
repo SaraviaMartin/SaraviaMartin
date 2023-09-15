@@ -10,7 +10,7 @@
 
 ## About Me :wave:
 
-Hey there! :smile: My name is Juan. I'm a 27-year-old  web developer , Argentina and currently reside in Salta. I just finished a Full Stack Developer Program at [Sofactory](https://sofactoryagency.com/), and I'm looking for open-source projects to contribute to and people to collaborate with! I love creating and tinkering with small, static websites. I'm a big proponent of putting an emphasis on accessibility and the in web development.
+Hey there! :smile: My name is Juan. I'm a 27-year-old  web developer , Argentina and currently reside in Salta. I'm looking for open-source projects to contribute to and people to collaborate with! I love creating and tinkering with small, static websites. I'm a big proponent of putting an emphasis on accessibility and the in web development.
 
 I'm always looking to work with people that are hopeless idealists like me, as well as who are interested in creating and working on cool, interesting, and meaningful projects! Shoot me [an e-mail](mailto:saraviamartin16@gmail.com) 
 
