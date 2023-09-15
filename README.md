@@ -18,9 +18,11 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 
 ## Technologies I'm Learning :books:
 
-#### Software:
+#### Language:
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffff4a)
+
+## Technologies I'm using :
 
 #### Front-end:
 
@@ -28,6 +30,9 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&logoColor=00d632)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
+
 
 
 
@@ -47,7 +52,16 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-000000?style=flat-square&logo=gnu-bash&logoColor=ffffff)
 
+#### Other Technologies:
+
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) 
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)
+
+
 <hr/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraviaMartin&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
 ### ✍️ Random Dev Quote
