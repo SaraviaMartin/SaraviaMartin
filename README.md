@@ -6,7 +6,7 @@
 ![Pronouns](https://img.shields.io/badge/Pronouns-He%2FHim-brightgreen?style=flat)
 ![Open Source](http://img.shields.io/badge/-Open%20Source%20Fan-3DA639?style=flat&logo=open-source-initiative&logoColor=ffffff)
 
-<p align="center"> :octocat: <b><a href="https://resume-juan-martin-2023.netlify.app/">Website</a> / <a href="https://resume-juan-martin-2023.netlify.app/">Resume</a> / <a href="https://github.com/SaraviaMartin?tab=repositories">Projects</a></b> :octocat: </p>
+<p align="center"> :octocat: <b><a href="https://portafolio-jm.vercel.app">Website</a> / <a href="https://resume-juan-martin-2023.netlify.app/">Resume</a> / <a href="https://github.com/SaraviaMartin?tab=repositories">Projects</a></b> :octocat: </p>
 
 ## About Me :wave:
 
