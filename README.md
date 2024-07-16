@@ -1,4 +1,3 @@
-<h1 align="center">Hi, I'm Juan Martin! </h1>
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/juan_martin444)](https://twitter.com/juan_martin444)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanmartin96/)](https://www.linkedin.com/in/juanmartin96/)
